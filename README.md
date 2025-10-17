@@ -1,4 +1,4 @@
-# projeto-qa-datarium
+# Sprint 4 QA
 # Projeto de Testes, Conformidade e Qualidade - DATARIUM
 
 Este repositório contém os links de entrega para o projeto da disciplina.
